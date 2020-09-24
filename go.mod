@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 module github.com/rookieami/ginSession
-=======
-module github.com/rookieami/gin-session
->>>>>>> f81cb9f... gin session
+
 
 go 1.15
 
